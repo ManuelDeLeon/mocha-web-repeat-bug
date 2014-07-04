@@ -1,0 +1,8 @@
+/.meteor/local
+/.git
+/.build
+/packages
+/c
+/mocha-web-repeat-bug.iml
+/.idea
+/smart.lock
